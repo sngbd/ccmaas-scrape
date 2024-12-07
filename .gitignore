@@ -4,3 +4,4 @@ node_modules
 tweets-data
 outputs
 scripts/downloads
+.DS_Store

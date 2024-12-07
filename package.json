@@ -4,6 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "twitter": "node main.js twitter",
+    "threads": "node main.js threads"
   },
   "author": "",
   "license": "ISC",
